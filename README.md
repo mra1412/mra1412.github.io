@@ -1,2 +1,2 @@
-# mra1412.github.io
+# mrehanabbasi.github.io
 Muhammad Rehan Abbasi's resume
