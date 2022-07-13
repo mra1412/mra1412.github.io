@@ -1,7 +1,7 @@
 {
-  "name": "elito-react",
+  "name": "rehan-resume",
   "version": "0.1.0",
-  "homepage": "http://elito-react.wpocean.com",
+  "homepage": "http://mrehanabbasi.github.io",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
