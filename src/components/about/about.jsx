@@ -7,7 +7,7 @@ const currentDate = new Date();
 const diffTime = Math.abs(currentDate - startDate);
 const totalExperience = Math.ceil(diffTime / (1000 * 60 * 60 * 24 * 365))
   .toString()
-  .padStart(2, '0'); // Two digit output. If less, it will append zeros before the digit.
+  .padStart(2, '0'); // Two digit output. If less, it will append zeroes before the digit.
 
 const About = (props) => {
   return (
@@ -24,66 +24,66 @@ const About = (props) => {
                 <h3>
                   <span data-count="100">100</span>%
                 </h3>
-                <p>Clients Satisfaction</p>
+                <p>Focused</p>
               </div>
             </div>
           </div>
           <div className="col-lg-6 offset-lg-1 col-md-12 col-sm-12">
             <div className="wpo-about-content">
               <div className="wpo-about-title">
-                <h2>My Advantage</h2>
+                <h2>My Skills</h2>
                 <p>
-                  Must explain to you how all this mistaken idea of denouncing
-                  pleasure and praising pain was born and I will give you a
-                  complete account the system and expound the actual and
-                  praising pain was born.
+                  An Electrical Engineer with about 7 years of experience in the
+                  field of Power. After switching to the software side, have
+                  experienced working on building APIs for emulator / sandbox
+                  related websites.
                 </p>
               </div>
               <div className="wpo-about-funfact">
                 <div className="grid">
                   <div className="grid-inner">
                     <h3>
-                      <span data-count="98">98</span>%
+                      <span data-count="90">90</span>%
                     </h3>
-                    <p>Figma</p>
+                    <p>Research</p>
                   </div>
                 </div>
                 <div className="grid">
                   <div className="grid-inner">
                     <h3>
-                      <span data-count="92">92</span>%
+                      <span data-count="85">85</span>%
                     </h3>
-                    <p>Sketch</p>
+                    <p>Go</p>
                   </div>
                 </div>
                 <div className="grid">
                   <div className="grid-inner">
                     <h3>
-                      <span data-count="88">88</span>%
+                      <span data-count="80">80</span>%
                     </h3>
-                    <p>Photoshop</p>
+                    <p>Python</p>
                   </div>
                 </div>
                 <div className="grid">
                   <div className="grid-inner">
                     <h3>
-                      <span data-count="72">72</span>%
+                      <span data-count="80">80</span>%
                     </h3>
-                    <p>Illustrator</p>
+                    <p>OpenAPI</p>
                   </div>
                 </div>
                 <div className="grid">
                   <div className="grid-inner">
                     <h3>
-                      <span data-count="43">43</span>%
+                      <span data-count="60">60</span>%
                     </h3>
-                    <p>WordPress</p>
+                    <p>Javascript</p>
                   </div>
                 </div>
                 <div className="grid">
                   <div className="grid-inner">
                     <h3>
-                      <span data-count="37">37</span>%
+                      <span data-count="40">40</span>%
                     </h3>
                     <p>ReactJS</p>
                   </div>
