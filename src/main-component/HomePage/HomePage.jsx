@@ -1,13 +1,13 @@
 import React, { Fragment } from 'react';
 import About from '../../components/about/about';
-import BlogSection from '../../components/BlogSection/BlogSection';
+// import BlogSection from '../../components/BlogSection/BlogSection';
 import ContactArea from '../../components/ContactArea';
 import Experience from '../../components/Experience/Experience';
 import Footer from '../../components/footer/Footer';
 import Hero from '../../components/hero/hero';
 import Navbar from '../../components/Navbar/Navbar';
 // import Pricing from '../../components/Pricing/Pricing';
-import ProjectSection from '../../components/ProjectSection/ProjectSection';
+// import ProjectSection from '../../components/ProjectSection/ProjectSection';
 import Scrollbar from '../../components/scrollbar/scrollbar';
 import ServiceSection from '../../components/ServiceSection/ServiceSection';
 // import Testimonial from '../../components/Testimonial/Testimonial';
@@ -20,7 +20,7 @@ const HomePage = () => {
       <About />
       <ServiceSection />
       <Experience />
-      <ProjectSection />
+      {/* <ProjectSection /> */}
       {/* <Testimonial/>
             <Pricing/> */}
       <ContactArea />

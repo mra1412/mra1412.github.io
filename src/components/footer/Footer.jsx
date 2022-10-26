@@ -128,11 +128,11 @@ const Footer = (props) => {
                       Web Development
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link to="service" spy={true} smooth={true} duration={500}>
                       E-Commerce
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link to="service" spy={true} smooth={true} duration={500}>
                       Go Development

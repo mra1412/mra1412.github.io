@@ -96,7 +96,7 @@ const ContactForm = () => {
               <option>Choose a Service</option>
               <option>Web Design</option>
               <option>Web Development</option>
-              <option>E-Commerce</option>
+              <option>Go Development</option>
               <option>Other</option>
             </select>
             {validator.message('subject', forms.subject, 'required')}
