@@ -8,7 +8,15 @@ import SectionTitle from '../SectionTitle/SectionTitle';
 
 const Experiences = [
   {
-    date: 'June, 2022 - Present',
+    date: 'September, 2022 - Present',
+    logo: xflowLogo,
+    position: 'Assistant Manager',
+    companyName: 'xFlow Research Inc., Pakistan',
+    workFrom: '',
+    website: 'https://xflowresearch.com',
+  },
+  {
+    date: 'June, 2022 - September, 2022',
     logo: xflowLogo,
     position: 'Senior Engineer',
     companyName: 'xFlow Research Inc., Pakistan',
